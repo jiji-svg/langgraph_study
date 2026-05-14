@@ -5,14 +5,14 @@ Just in case i'm  telling you, My study workflow will contain lots of korean.(ac
 
 There is two folder, langchain basic folder and langgraph basic folder
 
-langchain basic folder is literally basic knowledge of langchain
+## langchain basic folder is literally basic knowledge of langchain
 
 it's composed with below lists.
 (not written yet)
 
 and langgraph basic folder is composed with langgraph_basic, langgraph_little_advance, langgraph_examples
 
-first langgraph_basic file is composed with below lists.
+## first langgraph_basic file is composed with below lists.
 
 - 용어를 정리 -- TypedDict, Annotated, add_messages
 - 간단한 챗봇 구축 -- 상태 정의, 챗봇 노드, 빌더 구축, 그래프 생성, 간단 streaming 까지
@@ -29,7 +29,7 @@ first langgraph_basic file is composed with below lists.
 - subgraph 추가 및 사용 방법
 - subgraph들과 본 graph와의 연결
 
-second. langgraph_little_advance is composed with below lists.
+## second. langgraph_little_advance is composed with below lists.
 - NAIVE RAG -- 실제 pdf를 retrieve해서 llm이 답변하는 간단 RAG를 구현
 - 관련성 체크 노드 추가 -- retrieve된 docs와 question간의 관련성 간단 체크
 - 웹 검색 노드 추가
@@ -37,7 +37,7 @@ second. langgraph_little_advance is composed with below lists.
 - agentic RAG
 - adaptive RAG
 
-third. langgraph_examples file is composed with below lists.
+## third. langgraph_examples file is composed with below lists.
 - agent + simulated user graph -- 상황을 주고 llm과 둘이 해결하도록 (실제 해결까진 아닌) 하는 상황 만들기
 - 사용자가 원하는 프롬프트 만들기 -- 필요한 정보를 받고 prompt를 쓰도록
 - CRAG(corrective RAG) -- 문서를 retrieve해서 document grading + websearch + query rewrite까지 해보기
