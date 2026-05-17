@@ -5,10 +5,19 @@ Just in case i'm  telling you, My study workflow will contain lots of korean.(ac
 
 There is two folder, langchain basic folder and langgraph basic folder
 
+## Before Starting
+Be sure that this github is written for my own study summary.
+Each file will be written in ipynb file.
+All words will be written in korean.
+it requires langchain library, (pip install langchain)
+But for sure you could refer to requirements.txt
+
+And my python version is 3.11.
+
 ## langchain basic folder is literally basic knowledge of langchain
 
 it's composed with below lists.
-(not written yet)
+(will not be written maybe)
 
 and langgraph basic folder is composed with langgraph_basic, langgraph_little_advance, langgraph_examples
 
