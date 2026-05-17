@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain_classic
+
+langgraph
+python-dotenv
+
+langchain-teddynote
+langchain-experimental
